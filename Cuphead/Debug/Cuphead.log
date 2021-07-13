@@ -1,0 +1,12 @@
+﻿  Cuphead.cpp
+D:\WorkSpace\Cuphead\Cuphead\Cuphead.cpp(111): error C2102: '&' requires l-value
+  Game.cpp
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1068,42): warning C4018: '>': signed/unsigned mismatch
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1082,42): warning C4018: '>': signed/unsigned mismatch
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1131,63): warning C4018: '>': signed/unsigned mismatch
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1152,63): warning C4018: '>': signed/unsigned mismatch
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1206,42): warning C4018: '>': signed/unsigned mismatch
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(1221,42): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+D:\WorkSpace\Cuphead\Cuphead\Game.cpp(263): warning C4715: 'Game::InitOverLap': not all control paths return a value
